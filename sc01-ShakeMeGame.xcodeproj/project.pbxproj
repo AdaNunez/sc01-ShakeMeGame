@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		60C4DABD1F8D8A22003212EF /* beetlejuice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beetlejuice.png; sourceTree = "<group>"; };
 		CE61AB491F82F6EA00C2CA79 /* sc01-ShakeMeGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sc01-ShakeMeGame.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE61AB4D1F82F6EA00C2CA79 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CE61AB4F1F82F6EA00C2CA79 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				CE61AB531F82F6EA00C2CA79 /* ViewController.m */,
 				CE61AB551F82F6EA00C2CA79 /* Main.storyboard */,
 				CE61AB581F82F6EA00C2CA79 /* Assets.xcassets */,
+				60C4DABD1F8D8A22003212EF /* beetlejuice.png */,
 				CE61AB5A1F82F6EA00C2CA79 /* LaunchScreen.storyboard */,
 				CE61AB5D1F82F6EA00C2CA79 /* Info.plist */,
 				CE61AB4C1F82F6EA00C2CA79 /* Supporting Files */,
@@ -311,6 +313,7 @@
 				CE61AB621F82F6EA00C2CA79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
